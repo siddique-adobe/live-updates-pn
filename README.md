@@ -10,11 +10,6 @@ An Android application that displays live progress notifications using Firebase 
 - 📍 Start/End icons and progress tracker
 - 🔄 Dynamic notification updates
 
-## Screenshots
-
-![Segment Style](screenshots/live_notification_android_segment_style.gif)
-![Segment Point Style](screenshots/live_notification_android_segment_point_style.gif)
-
 ## Prerequisites
 
 - Android Studio (latest version recommended)
